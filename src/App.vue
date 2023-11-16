@@ -6,7 +6,6 @@ import Greet from "./components/Greet.vue";
 
 <template>
   <div class="container">
-    <h1>Get your hero!</h1>
     <suspense>
       <Greet />
     </suspense>

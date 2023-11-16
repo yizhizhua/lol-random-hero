@@ -7,8 +7,8 @@
     "withGlobalTauri": false
   },
   "package": {
-    "productName": "demo",
-    "version": "0.0.0"
+    "productName": "ATM摇摇乐",
+    "version": "0.0.1"
   },
   "tauri": {
     "allowlist": {
@@ -37,7 +37,7 @@
       {
         "fullscreen": false,
         "resizable": true,
-        "title": "demo",
+        "title": "ATM摇摇乐",
         "width": 800,
         "height": 600
       }
